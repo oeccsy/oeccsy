@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋  
+  
+### Learning
+---
+- Computer Science & Engineering
+- Game Programming with **Unity** and Blender
+- Everything what i want :laughing:
 
+Thank you for visiting :smile::smile::smile:
 <!--
 **oeccsy/oeccsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
