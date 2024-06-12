@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td align="center"> <a href="https://github.com/oeccsy/CurtainCall">CurtainCall</a> </td>
-      <td align="center"> 인터렉티브 미디어아트 </td>
+      <td align="center"> 컴퓨터비전을 이용한 인터렉티브 미디어아트 </td>
     </tr>
     <tr>
       <td align="center"> <a href="https://github.com/oeccsy/StorytlineGamePipeline">StorylineGamePipeline</a> </td>
